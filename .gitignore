@@ -1,0 +1,9 @@
+auth.json
+.DS_Store
+node_modules/
+*.json
+!package.json
+*.lock
+debug.log
+error.log
+combined.log
