@@ -3,7 +3,7 @@ TOKEN: "",
 ownerID: "", //write your discord user id.
 botInvite: "", //write your discord bot invite.
 supportServer: "", //write your discord bot support server invite.
-mongodbURL: "mongodb+srv://juancarlovieri:buscopan6268@cluster0.clmjp.mongodb.net/vieribottest2?retryWrites=true&w=majority", //write your mongodb url.
+mongodbURL: "", //write your mongodb url.
 status: 'Developed by Vieri Corp.',
 commandsDir: './commands', //Please don't touch
 language: "en", //en, tr, nl
